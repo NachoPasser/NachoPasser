@@ -1,14 +1,14 @@
-### Hola, Soy Ignacio! 👋. 
+### Hi, I'm Ignacio! 👋. 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif" />
 
-<h4 align="left">Tengo 20 años y soy desarrollador web Full-Stack con preferencia por el Back-end. </h4>
-<h4 align="left"> Me adentre en el mundo de la programacion en 2020 durante mi cursada en Ingenieria en Computacion y ahora, en 2022, he obtenido mi certificacion como desarrollador web Full-Stack gracias a <a href="https://www.soyhenry.com/">SoyHenry</a>.</h4>
-<h4>Espero poder trabajar con ustedes!</h4>
+<h4 align="left">I'm a 20 years old Full-Stack web developer with a preference for Back-end.</h4>
+<h4 align="left"> I started my programming journey back in 2020 while i was studying computer engineering and now in 2022 i have obtained a Full-Stack web developer certificate thanks to <a href="https://www.soyhenry.com/">SoyHenry</a>.</h4>
+<h4>I looking forward to the opportunity of working with you!</h4>
 
 <br />
 
-<h3 align="left"> Lenguajes y Herramientas:</h3>
+<h3 align="left"> Lenguages and tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
 
 ***********************************
 
-<h4>Contactate conmigo 👉 <a href="https://www.linkedin.com/in/ignacio-passerini">
+<h4>Contact me 👉 <a href="https://www.linkedin.com/in/ignacio-passerini">
   <img alt="Linkedin" height=20 width="22px" src="icons/linkedin.png" />
 </a>
 <a href="https://wa.me/5491121688479">
@@ -36,4 +36,4 @@
 </a>
 </h4>
 
-#### Gracias por leer👌
+#### Thanks you for reading👌
