@@ -25,15 +25,15 @@
 
 ***********************************
 
-<h4>Contactate conmigo 👉🏼 <a href="https://www.linkedin.com/in/ignacio-passerini">
-  <img alt="Linkedin" height=20 width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<h4>Contactate conmigo 👉 <a href="https://www.linkedin.com/in/ignacio-passerini">
+  <img alt="Linkedin" height=20 width="22px" src="icons/linkedin.png" />
 </a>
 <a href="https://wa.me/5491121688479">
-  <img alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img alt="Whatsapp" width="22px" src="icons/whatsapp.png" />
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTmctvmZKgSgPNPJmqxdLMzgrcnZXcfpFkXhlZTQZkRRzBWrRCZpNrjJfrhZSkZvXDXB">
-  <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img alt="Gmail" width="22px" src="icons/gmail.png" />
 </a>
 </h4>
 
-#### Gracias por leer🙏🏼
+#### Gracias por leer👌
