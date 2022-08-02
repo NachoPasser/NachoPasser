@@ -36,3 +36,32 @@
 
 
 #### - 🥀 Learning GraphQl  <code></code>.
+
+#### - 🔭 SpaceX FanBoi, 
+
+#### - 🛸 Into Hight Energy Physics and Astrophysics
+
+#### - 💬 Connect? Here 👉🏼
+
+<br />
+
+
+**I am Into , 🙏**
+
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+<br />
+
+*************
+
+<br />
+
+### - Languages and Tools...
+
+<p align="center">
+
+</p>
+
+
+***********************************
+
+#### Thank You-🙏🏼
