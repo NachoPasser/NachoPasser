@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> </a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+<a href="https://babeljs.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" alt="babel" width="80" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://sequelize.org/"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="JWT" width="40" height="40">
@@ -22,6 +22,12 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://jwt.io"> <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="60" height="40"/> </a> 
+<a href="https://www.mongodb.com"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="JWT" width="40" height="40"/> </a> 
+<a href="https://mongoosejs.com/"> <img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="JWT" width="80" height="40"/> </a> 
+<a href="https://www.docker.com/"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="JWT" width="50" height="40"/> </a>
+<a href="https://firebase.google.com/"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="JWT" width="30" height="40"/> </a>
+ 
+
 
 ***********************************
 
