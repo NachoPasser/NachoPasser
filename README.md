@@ -7,7 +7,7 @@
 
 - 💾 I am passionate about **backend**, an area where I enjoy data manipulation, prioritizing that it be secure, fast and scalable.
 
-- 👨‍💻 Checkout my projects on https://ignaciopasserini.vercel.app/
+- 👨‍💻 Checkout my projects and skills on https://ignaciopasserini.vercel.app/
 
 ### Contact me!
 <a href="mailto:ignaciopasser@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
