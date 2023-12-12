@@ -3,9 +3,9 @@
 
 - 👦 i'm 21 years old and i live on Buenos Aires, Argentina.
 
-- 🎓 I started my programming journey during my computer engineering career and I am now a Full Stack Web Developer.
+- 💻 I'm a Full Stack Web Developer with experience on Node.js, React and AWS.
 
-- 💾 I am passionate about **backend**, an area where I enjoy data manipulation, prioritizing that it be secure, fast and scalable.
+- 🎓 I'm currently on my second year of computer engineering.
 
 - 👨‍💻 Checkout my projects and skills on https://ignaciopasserini.vercel.app/
 
