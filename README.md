@@ -1,14 +1,27 @@
+<h1 align="center">Hi 👋, I'm Ignacio Passerini</h1>
 
-<h1 align="center">Hi 👋, I'm Ignacio Passerini </h1>
+<p align="center">
+  <strong>Full Stack Web Developer</strong> · Computer Engineering Student
+</p>
 
-- 👦 i'm 21 years old and i live on Buenos Aires, Argentina.
+* 💻 Full Stack Developer specialized in **React, Node.js, Python and AWS**.
+* ☁️ Experience building **end-to-end web applications and cloud-based solutions**.
+* 🎨 Experience in **UX/UI design** and Human-Computer Interaction.
+* 🚀 Experience working with **Agile methodologies** and leading small development teams.
+* 🎓 Currently studying **Computer Engineering at UNTREF**.
 
-- 💻 I'm a Full Stack Web Developer with experience on Node.js, React and AWS.
+### 🛠️ Tech Stack
 
-- 🎓 I'm currently on my second year of computer engineering.
+**Frontend:** React · Redux · JavaScript · HTML · CSS · Tailwind CSS · Chakra UI
 
-- 👨‍💻 Checkout my projects and skills on https://ignaciopasserini.vercel.app/
+**Backend:** Node.js · Express · Python · Flask · Firebase · JWT
 
-### Contact me!
-<a href="mailto:ignaciopasser@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/ignacio-passerini" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+**Databases:** PostgreSQL · MongoDB · Sequelize · Mongoose
+
+**Cloud:** AWS Lambda · S3 · DynamoDB
+
+**Other:** Git · Figma
+
+### 📫 Contact me
+
+<a href="mailto:ignaciopasser@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)</a> <a href="https://www.linkedin.com/in/ignacio-passerini" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)</a>
